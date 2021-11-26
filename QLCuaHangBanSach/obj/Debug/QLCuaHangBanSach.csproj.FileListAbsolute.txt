@@ -1,0 +1,97 @@
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\bin\Debug\QLCuaHangBanSach.exe.config
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\bin\Debug\QLCuaHangBanSach.exe
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\bin\Debug\QLCuaHangBanSach.pdb
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.csprojResolveAssemblyReference.cache
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.Properties.Resources.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.csproj.GenerateResource.Cache
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.exe
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.pdb
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmDangKy.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmDangNhap.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmMenuAd.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmQuanLySach.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmQuanLyDonHang.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmQuanLyNguoiDung.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmDanhSachSanPham.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmMenuUser.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmThongTinCaNhan.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmCapNhatSoLuong.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmGioHang.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmNXB.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmQuanLyHoaDon.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmChiTietDonHang.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmDonHangUser.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmDonHangCuaToi.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmBieuDoDoanhThu.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmThongKe.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmLapHoaDon.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmHangNhap.resources
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\Interop.VBIDE.dll
+D:\code\sql\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\bin\Debug\QLCuaHangBanSach.exe.config
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\bin\Debug\QLCuaHangBanSach.exe
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\bin\Debug\QLCuaHangBanSach.pdb
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\Interop.VBIDE.dll
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmBieuDoDoanhThu.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmChiTietDonHang.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmCapNhatSoLuong.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmDonHangUser.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmDanhSachSanPham.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmGioHang.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmDonHangCuaToi.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmHangNhap.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmLapHoaDon.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmMenuUser.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmNXB.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmQuanLyHoaDon.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmQuanLyNguoiDung.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmDangKy.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmDangNhap.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmMenuAd.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmQuanLyDonHang.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmQuanLySach.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmThongKe.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmThongTinCaNhan.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.exe
+C:\Users\Admin\Desktop\New folder\C#\BTL1\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.pdb
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\bin\Debug\QLCuaHangBanSach.exe.config
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\Interop.VBIDE.dll
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.csproj.ResolveComReference.cache
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.exe
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.pdb
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\bin\Debug\QLCuaHangBanSach.exe
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\bin\Debug\QLCuaHangBanSach.pdb
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.csprojResolveAssemblyReference.cache
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmBieuDoDoanhThu.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmChiTietDonHang.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmCapNhatSoLuong.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmDonHangUser.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmDanhSachSanPham.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmGioHang.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmDonHangCuaToi.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmHangNhap.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmLapHoaDon.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmMenuUser.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmNXB.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmQuanLyHoaDon.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmQuanLyNguoiDung.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmDangKy.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmDangNhap.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmMenuAd.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmQuanLyDonHang.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmQuanLySach.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmThongKe.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.FrmThongTinCaNhan.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.Properties.Resources.resources
+D:\code\PhanAnhDung\QLCuaHangBanSach\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.csproj.GenerateResource.Cache
